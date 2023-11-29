@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/chukai/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/chukai/keyboard_avoider/example"
+export "FLUTTER_ROOT=C:\soft\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\wench\Documents\androidProjects\keyboard_avoider\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib/main.dart"
+export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
